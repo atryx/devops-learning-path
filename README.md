@@ -1,4 +1,4 @@
-<!-- GitAds-Verify: REPLACE_WITH_GITADS_CODE -->
+<!-- GitAds-Verify: MMN98NDFMKCJKJW5KNS93H4NC3BB99EZ -->
 
 # DevOps Learning Path (2026)
 
